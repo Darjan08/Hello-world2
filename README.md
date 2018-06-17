@@ -1,2 +1,4 @@
 # Hello-world2
-Just testing new repository
+
+I'm casual C/C++ programmer and I'm laearning JavaScript.
+I also know somethnig about databases, SQL language and server side programming in SQL language.
